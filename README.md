@@ -117,8 +117,6 @@ Mot secret choisi !
 Mot trouvé :CRANE 
 
 Screenshots :
-<img width="901" height="758" alt="image" src="https://github.com/user-attachments/assets/a915ae2f-67e2-409d-ab81-0d4466f8a53e" />
-<img width="1143" height="679" alt="image" src="https://github.com/user-attachments/assets/7cd6feea-9af8-438e-84df-db504316ee07" />
 
 
 
@@ -159,5 +157,6 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
