@@ -117,14 +117,13 @@ Mot secret choisi !
 Mot trouvé :CRANE 
 
 Screenshots :
+## 🎮 Captures d'écran
 
-## 🎮 Captures d'écran du projet
+### Wordle
+![Wordle](https://raw.githubusercontent.com/SON_ID/son-projet/main/wordle.png)
 
-### Interface Wordle
-![Capture de l'interface Wordle](wordle.png)
-
-### Solveur en action
-![Capture du solveur](solver.png)
+### Solver
+![Solver](https://raw.githubusercontent.com/SON_ID/son-projet/main/solver.png)
 
 🛠️ Stratégie du solver
 
@@ -163,6 +162,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
