@@ -118,7 +118,6 @@ Mot trouvé :CRANE
 
 Screenshots :
 ## 🎮 Captures d'écran
-<img width="901" height="758" alt="wordle" src="https://github.com/user-attachments/assets/8709689b-61cb-4e0b-b165-75e9cec57367" />
 
 ### Wordle
 ![Wordle](https://raw.githubusercontent.com/SON_ID/son-projet/main/wordle.png)
@@ -163,6 +162,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
