@@ -121,8 +121,7 @@ Screenshots :
 ![wordle clone Screenshot](./image/wordle.png).
 
 
-### Wordle
-![Wordle](https://raw.githubusercontent.com/SON_ID/son-projet/main/wordle.png)
+
 ### Wordle
 ![Wordle](wordle.png)
 
@@ -169,6 +168,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
