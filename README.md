@@ -118,6 +118,7 @@ Mot trouvé :CRANE
 
 Screenshots :
 ## 🎮 Captures d'écran
+![wordle clone Screenshot](./image/wordle.png).
 
 
 ### Wordle
@@ -163,6 +164,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
