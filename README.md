@@ -46,7 +46,7 @@ Projet réalisé dans le cadre du cours Algorithmes \& Structures de Données en
 
 \- Compilation :
 
-```bash
+
 
 gcc WordleSolver.c -o wordle
 
@@ -164,6 +164,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
