@@ -118,7 +118,7 @@ Mot trouvé :CRANE
 
 Screenshots :
 ## 🎮 Captures d'écran
-![wordle clone Screenshot](./image/wordle.png).
+
 
 
 
@@ -129,7 +129,7 @@ Screenshots :
 ![Solver](solver.png)
 
 ### Solver
-![Solver](https://raw.githubusercontent.com/SON_ID/son-projet/main/solver.png)
+
 
 🛠️ Stratégie du solver
 
@@ -168,6 +168,7 @@ words.txt doit contenir un mot par ligne.
 Les couleurs ANSI s’affichent dans les terminaux compatibles.
 
 Le dépôt doit inclure au moins une capture d’écran du programme en exécution (voir section Screenshots).
+
 
 
 
